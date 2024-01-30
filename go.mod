@@ -1,3 +1,3 @@
-module github.com/benbjohnson/clock
+module github.com/plaid/clock
 
 go 1.15
